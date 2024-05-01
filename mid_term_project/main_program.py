@@ -94,7 +94,6 @@ def transcribe_voice(audio_url):
 
     response = requests.post(url, headers=headers, data=data)
     if response.status_code == 200:
-        print(response.json())
         try:
             text = response.json()['text']
             print(f"Transcribed text: {text}")
