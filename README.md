@@ -7,15 +7,15 @@ A repository for the Pixel team in Software Engineering Course
 ## Prerequisites
 Before running the application, It is recommended to install the following prerequisites:
 
-- python 3
-- Virtual environment (optional but recommended)
+- python 3.x
+- Virtual environment
 
 Additionally, install the required packages listed in the `requirements.txt` file using the following command:
 ```bash
 pip install -r requirements.txt
 ```
 
-## set up API keys for and save them in a .env file in the project directory like the following:
+## Set up API keys and save them in a .env file in the project directory like the following format:
 
 ```
 # GPT-4 API KEY:
@@ -50,5 +50,8 @@ Once the prerequisites and API keys are set up, you can run the application. The
 
 ## For a demonstration of the application's features, refer to the [DEMO_VIDEO](https://github.com/Jamshid-Ganiev/DevOps-Pixel-Team/blob/main/mid_term_project/presentation_folder/DEMO_VIDEO.mp4) located in the project repository.
 
-### Don't forget to put a star
+# Collaborators:
 
+- [imdiora](https://github.com/imdiora)
+- [alhammadimohamed](https://github.com/alhammadimohamed)
+- [soumanzhang](https://github.com/soumanzhang)
