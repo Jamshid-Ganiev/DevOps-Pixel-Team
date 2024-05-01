@@ -80,3 +80,5 @@ if __name__ == "__main__":
     api_key = os.environ.get("GRAPHHOPPER_API_KEY") # accessing the api key in the .env file
 
     get_route(start, end, mode, api_key)
+
+#reviewed 12200182-Mohamed 
