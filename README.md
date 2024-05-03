@@ -1,6 +1,11 @@
 # DevOps-Pixel-Team
 A repository for the Pixel team in Software Engineering Course
 
+# Mid-term project of Pixel Team
+
+</hr>
+
+## Travel Guide Application
 
 ### This Python-based application is designed to assist users with various travel-related tasks, including routing, weather inquiries, and obtaining information about cities. 
 
@@ -48,7 +53,35 @@ Once the prerequisites and API keys are set up, you can run the application. The
 - GPT-4-turbo model is used to provide assistance and information regarding city-related inquiries.
 - AI chatbot to ask questions about anyting. ( like simple Chat-GPT)
 
+## How to Run
+
+To run the Python files individually for each feature:
+
+```
+# Graphhopper Geocoding and Routing API
+python graphhopper_geocoding_routing_api.py
+```
+
+
+```
+# Voice Control with Whisper and OpenWeather APIs
+python voice_control_Whisper_and_OpenWeather_APIs.py
+```
+
+```
+# GPT-4 API chat bot
+python gpt_4_api.py
+```
+
+To run the main project:
+
+```
+python main_program.py
+```
+
 ## For a demonstration of the application's features, refer to the [DEMO_VIDEO](https://github.com/Jamshid-Ganiev/DevOps-Pixel-Team/blob/main/mid_term_project/presentation_folder/DEMO_VIDEO.mp4) located in the project repository.
+
+</hr>
 
 # Collaborators:
 
